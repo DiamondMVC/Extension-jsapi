@@ -1,5 +1,9 @@
 # jsapi
 
+[![Dub version](https://img.shields.io/dub/v/diamond-ext-jsapi.svg)](http://code.dlang.org/packages/diamond-ext-jsapi)
+[![Dub downloads](https://img.shields.io/dub/dt/diamond-ext-jsapi.svg)](http://code.dlang.org/packages/diamond-ext-jsapi)
+[![License](https://img.shields.io/dub/l/diamond-ext-jsapi.svg)](http://code.dlang.org/packages/diamond-ext-jsapi)
+
 Jsapi is an extension to views in Diamond, which extends views with an easy-to-use integration of js/jquery.
 
 ## extensions.config
