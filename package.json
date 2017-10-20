@@ -1,0 +1,11 @@
+{
+	"name": "diamond-ext-jsapi",
+	"description": "Diamond extension for a js/jquery api.",
+	"authors": [
+		"Jacob Jensen"
+	],
+	"license": "The MIT License (MIT)",
+	"copyright": "Copyright © 2017 Jacob Jensen",
+	"targetType": "sourceLibrary",
+	"sourcePaths": ["src"]
+}
