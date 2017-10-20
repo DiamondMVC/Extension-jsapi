@@ -43,7 +43,7 @@ mixin template extensions()
           }
         });
       }
-    }
+    </script>
 `;
 
   /**
